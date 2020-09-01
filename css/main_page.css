@@ -1,0 +1,18 @@
+.jumbotron {
+    background-color: rgb(248, 211, 207) !important;
+    padding-top: 220px !important;
+    padding-bottom: 40px !important;
+}
+
+#main_menu a {
+    color: white;
+    background-color: salmon;
+    padding: 7px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+#main_menu a:hover {
+    color: red;
+    text-decoration: none;
+}
