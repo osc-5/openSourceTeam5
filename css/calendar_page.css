@@ -1,7 +1,32 @@
 .today{
-    margin:3px auto;
-    padding:1px;
+    padding:20px;
+    margin:20px auto;
+    max-width: 60%;
     border:1px solid black;
-    max-width: 80%;
-    width:100%;
+    border-radius: 7px;
+}
+
+.month{
+    font-size: 17pt;
+    margin:0 auto;
+    padding:10px;
+    text-align: center;
+}
+
+.date{
+    width: 120px; 
+    font-size: 13pt; 
+    font-weight: bold;
+}
+
+.content{
+    font-size: 13pt; 
+    font-weight: bold; 
+    word-break: break-all;
+    color: salmon;
+    cursor:pointer;
+}
+
+.second{
+    font-size:10pt;
 }
