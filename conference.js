@@ -1,4 +1,4 @@
-[
+const conferences = [
     {
         "date": "1월 3일(금)",
         "content": "[1월 교육] NAVER CLOUD PLATFORM Hands-on Lab",
