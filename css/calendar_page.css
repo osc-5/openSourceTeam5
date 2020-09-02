@@ -1,16 +1,17 @@
+.today{
+    padding:20px;
+    margin:20px auto;
+    max-width: 40%;
+    border:1px solid black;
+    border-radius: 7px;
+}
+
 .month{
     font-size: 17pt;
     margin:0 auto;
     padding:10px;
     max-width: 40%;
     text-align: center;
-}
-
-.today{
-    padding:20px;
-    margin:20px auto;
-    max-width: 40%;
-    border:1px solid black;
 }
 
 .date{
