@@ -26,9 +26,9 @@ cd openSourceTeam5
 - ![title](https://img.shields.io/badge/-Vanila_javascript-EDD63F?&logo=javascript&logoColor=white)
 
 **ETC**
-- ![title](https://img.shields.io/badge/-EC2-232F3E?&logo=Amazon-AWS&logoColor=white)
+- ![title](https://img.shields.io/badge/-EC2-FF9900?&logo=Amazon-AWS&logoColor=white)
 - ![title](https://img.shields.io/badge/-Github-181717?&logo=Github&logoColor=white)
-- ![title](https://img.shields.io/badge/-Goole_Meets-4A154B?&logo=Slack&logoColor=white)
+- ![title](https://img.shields.io/badge/-Goole_Meet-E34F26?&logo=Google&logoColor=white)
 
 
 ------
