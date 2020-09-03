@@ -10,7 +10,7 @@ Front-end Developer Roadmap & Conference
 ------
 ## 🧞Quick Start
 
-### 1. Clone
+### Clone
 ```bash
 git clone https://github.com/osc-5/openSourceTeam5.git
 
@@ -18,7 +18,7 @@ cd openSourceTeam5
 ```
 ------
 
-## 기술 스택
+## 💻기술 스택
 
 **Frontend**
 - ![title](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
@@ -33,7 +33,7 @@ cd openSourceTeam5
 
 ------
 
-## 프로젝트 구조
+## 👀프로젝트 구조
 
 ```bash
 |--opensourceteam5
