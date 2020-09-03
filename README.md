@@ -35,5 +35,17 @@ cd openSourceTeam5
 
 ## 프로젝트 구조
 
-```
+```bash
+|--opensourceteam5
+    |-- css  // Frontend
+            ...  // css 파일
+    |
+    |-- html  // Frontend
+            ...  // html 파일
+    |         
+    |-- js  // Frontend
+    |
+    |   |-- datas  // 홈페이지에서 필요한 데이터들을 처리
+    |   |-- utils  // 렌더링시 사용되는 util들을 보관
+            ...  // js 파일
 ```
