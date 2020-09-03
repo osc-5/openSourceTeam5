@@ -4,8 +4,8 @@ Front-end Developer Roadmap & Conference
 
 ## ✋Team Members
 - [![title](https://img.shields.io/badge/DEVLOPER-윤상은-123456)](https://github.com/Zzangeun)
-- [![title](https://img.shields.io/badge/DEVLOPER-박남규-123456)](https://github.com/choibumsu)
-- [![title](https://img.shields.io/badge/DEVLOPER-노기진-123456)](https://github.com/codingmoster)
+- [![title](https://img.shields.io/badge/DEVLOPER-박남규-123456)](https://github.com/codingmoster)
+- [![title](https://img.shields.io/badge/DEVLOPER-노기진-123456)](https://github.com/nohgijin)
 
 ------
 ## 🧞Quick Start
