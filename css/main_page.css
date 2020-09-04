@@ -4,6 +4,15 @@
     padding-bottom: 40px !important;
 }
 
+.jumbotron a {
+    color: black;
+}
+
+.jumbotron a:hover {
+    color: rgb(70, 55, 53);
+    text-decoration: none;
+}
+
 #main_menu a {
     color: white;
     background-color: salmon;
