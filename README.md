@@ -26,7 +26,6 @@ cd openSourceTeam5
 - ![title](https://img.shields.io/badge/-Vanila_javascript-EDD63F?&logo=javascript&logoColor=white)
 
 **ETC**
-- ![title](https://img.shields.io/badge/-EC2-FF9900?&logo=Amazon-AWS&logoColor=white)
 - ![title](https://img.shields.io/badge/-Github-181717?&logo=Github&logoColor=white)
 - ![title](https://img.shields.io/badge/-Goole_Meet-E34F26?&logo=Google&logoColor=white)
 
@@ -48,4 +47,5 @@ cd openSourceTeam5
     |   |-- datas  // 홈페이지에서 필요한 데이터들을 처리
     |   |-- utils  // 렌더링시 사용되는 util들을 보관
             ...  // js 파일
+    |-- index.html  // root file
 ```
