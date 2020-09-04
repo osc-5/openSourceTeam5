@@ -1,0 +1,178 @@
+.body-wrap.sponsor-banner-visible {
+    margin-top: 44px;
+}
+
+.container {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.gGocxa {
+    text-align: center;
+    padding: 45px 30px;
+}
+
+.bvnnph {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 12px;
+}
+
+.ciNuDO {
+    font-size: 16px;
+    color: rgb(68, 68, 68);
+}
+
+.bg-light {
+    background-color: #fafafa !important;
+}
+
+.border-top {
+    border-top: 1px solid #eaeaea !important;
+}
+
+.pb-5, .py-5 {
+    padding-bottom: 3rem !important;
+}
+
+
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.jOlKX {
+    padding: 0px 10px 20px;
+}
+
+.emBhoi {
+    min-height: 114px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 10px;
+    transition: box-shadow 0.2s ease 0s;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    flex: 1 1 0%;
+    display: flex;
+    flex-direction: column;
+    min-width: 1px;
+    max-width: 100%;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    text-decoration: none;
+    opacity: 1;
+}
+
+
+.dNViyk {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgb(16, 16, 16);
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+}
+
+
+.lbYlwK {
+    font-size: 14px;
+    color: rgb(102, 102, 102);
+    white-space: normal;
+    line-height: 1.5;
+    margin: 0px;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+div {
+    display: block;
+}
+
+
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; /* If you want dots under the hoverable text */
+  }
+  
+  /* Tooltip text */
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 300px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+  
+    /* Position the tooltip text */
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+  
+    /* Fade in tooltip */
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+  
+  /* Tooltip arrow */
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+  }
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
