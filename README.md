@@ -48,4 +48,5 @@ cd openSourceTeam5
     |   |-- datas  // 홈페이지에서 필요한 데이터들을 처리
     |   |-- utils  // 렌더링시 사용되는 util들을 보관
             ...  // js 파일
+    |-- index.html  // root file
 ```
