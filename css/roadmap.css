@@ -1,73 +1,81 @@
+.learn {
+  height: 40px;
+  width: auto;
+  position: absolute;
+  right: 25px;
+  top: 375px;
+}
+
 .col-md {
-    margin: 20px;
-    width: 300px;
+  margin: 20px;
+  width: 300px;
 }
 
 .gGocxa {
-    text-align: center;
-    padding: 45px 30px;
+  text-align: center;
+  padding: 45px 30px;
 }
 
 .bvnnph {
-    font-size: 48px;
-    font-weight: 700;
-    margin-bottom: 12px;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 12px;
 }
 
 .ciNuDO {
-    font-size: 16px;
-    color: rgb(68, 68, 68);
+  font-size: 16px;
+  color: rgb(68, 68, 68);
 }
 
 .row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-right: -15px;
-    margin-left: -15px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-right: -15px;
+  margin-left: -15px;
 }
 
 .jOlKX {
-    padding: 0px 10px 20px;
-    margin-top:40px;
+  padding: 0px 10px 20px;
+  margin-top: 40px;
 }
 
 .emBhoi {
-    min-height: 140px;
-    box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 10px;
-    transition: box-shadow 0.2s ease 0s;
-    -webkit-box-align: stretch;
-    align-items: stretch;
-    flex: 1 1 0%;
-    display: flex;
-    flex-direction: column;
-    min-width: 1px;
-    max-width: 100%;
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
-    -webkit-box-pack: center;
-    justify-content: center;
-    text-decoration: none;
-    opacity: 1;
+  min-height: 140px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 5px 10px;
+  transition: box-shadow 0.2s ease 0s;
+  -webkit-box-align: stretch;
+  align-items: stretch;
+  flex: 1 1 0%;
+  display: flex;
+  flex-direction: column;
+  min-width: 1px;
+  max-width: 100%;
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  -webkit-box-pack: center;
+  justify-content: center;
+  text-decoration: none;
+  opacity: 1;
 }
 
 .dNViyk {
-    font-weight: 600;
-    font-size: 18px;
-    line-height: 24px;
-    color: rgb(16, 16, 16);
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    -webkit-box-pack: start;
-    justify-content: flex-start;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 24px;
+  color: rgb(16, 16, 16);
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
 }
 
 .lbYlwK {
-    font-size: 14px;
-    color: rgb(102, 102, 102);
-    white-space: normal;
-    line-height: 1.5;
-    margin: 0px;
+  font-size: 14px;
+  color: rgb(102, 102, 102);
+  white-space: normal;
+  line-height: 1.5;
+  margin: 0px;
 }
